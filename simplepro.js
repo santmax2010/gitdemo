@@ -3,7 +3,7 @@
 <script type="text/javascript" src="message.js"></script>  
 </head>  
 <body>  
-<p>Welcome to simple js program </p>  
+<p>Welcome to simple js program done </p>  
 <form>  
 <input type="button" value="click" onclick="msg()"/>  
 </form>  
